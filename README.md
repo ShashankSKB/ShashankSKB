@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shashank Borkar</h1>
-<h3 align="center">One who likes to code and live in the world of web development</h3>
+<h3 align="center">One who likes to code and live in the world of web development </h3>
+<p align="center" font >I enjoy developing websites and web applications with a specialization in MERN stack.
+In My free time I love to play Badmintion,video games and learning about new technologies. </p>
+
 
 - 🔭 I’m currently working on **my existing Projects**
 
-- 🌱 I’m currently learning **Next.js,Tailwind**
+- 🌱 I’m currently learning **Next.js
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
