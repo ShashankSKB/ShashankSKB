@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shashank Borkar</h1>
-<h3 align="center">One who likes to code and live in the world of web development </h3>
-<p align="center" font >I enjoy developing websites and web applications with a specialization in MERN stack.
+
+<h1 align="left">About me!</h1>
+<p align="left">One who likes to code and live in the world of web development </p>
+<p align="left" font >I enjoy developing websites and web applications with a specialization in MERN stack.
 In My free time I love to play Badmintion,video games and learning about new technologies. </p>
 
 
