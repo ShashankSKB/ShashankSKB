@@ -8,7 +8,7 @@ In My free time I love to play Badmintion,video games and learning about new tec
 
 - 🔭 I’m currently working on **my existing Projects**
 
-- 🌱 I’m currently learning **Next.js
+- 🌱 I’m currently expertising in MERN stack
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
